@@ -1,0 +1,21 @@
+[Desktop Entry]
+Name=Breeze Classic
+Comment=Breeze Classic  theme
+
+X-KDE-PluginInfo-Name=breeze-classic
+X-KDE-PluginInfo-Version=5.83.0
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+[Wallpaper]
+defaultWallpaperTheme=Next
+defaultFileSuffix=.png
+defaultWidth=1920
+defaultHeight=1080
+
+[ContrastEffect]
+enabled=true
+contrast=0.17
+intensity=1.25
+saturation=9
